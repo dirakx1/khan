@@ -1,2 +1,2 @@
-# khan
-Distributed AI for iot arquitectures
+# Khan
+Distributed AI for iot implementations
