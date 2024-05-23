@@ -1,6 +1,6 @@
 # Khan
 * Distributed AI for IOT applications
-* your finetunned data plataforms form ondevice AI models. 
+* Your finetunned data plataform for ondevice AI models. 
 
 ## Caracteristics
 * Each IOT node has its own LLM, with minimal computation (Low resource LLModels).
