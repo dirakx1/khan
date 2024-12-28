@@ -1,4 +1,4 @@
-# Khan
+# Khan.ai
 * Distributed AI for IOT applications, unifies distributed and AI paradigms. 
 * Your finetunned data plataform for ondevice AI models. 
 
